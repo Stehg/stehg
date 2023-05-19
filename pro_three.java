@@ -1,4 +1,5 @@
 public class pro_three {
-    System.out.println("Soy el tercero.")
+    public static void main(String[] args){
+    System.out.println("Soy el tercero.");
     
-}
+}}
